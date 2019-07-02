@@ -1,0 +1,14 @@
+Para compilar o programa (final.cpp) é a seguinte linha.
+	g++ final.cpp -std=c++11
+
+O programa já compilado chama-se compilado.out
+	time ./compilado.out
+
+Ao executar o programa, é pedido a matriz/puzzle inicial seguido do objetivo.
+Depois para correr cada busca é só introduzir o numero relativo a cada uma:
+BFS = 0
+DFS = 1
+DFSi = 2
+Greedy = 3
+A* = 4
+
